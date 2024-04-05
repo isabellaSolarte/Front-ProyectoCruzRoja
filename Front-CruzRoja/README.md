@@ -10,31 +10,6 @@ Estructura de proyecto - screaming architecture
 
 ![alt text](image.png)
 
-src
-├───adapters
-├───assets
-├───components
-│ ├───Layout
-│ └───Menu
-├───contexts
-├───core
-├───hooks
-├───models
-├───pages
-│ └───examplePageFolder
-│ ├───adapters
-│ ├───components
-│ ├───hooks
-│ ├───models
-│ └───styledComponents
-├───redux
-│ ├───states
-│ └───store
-├───router
-├───services
-├───styledComponents
-└───utils
-
 Biblioteca de diseño
 
 - Material UI
