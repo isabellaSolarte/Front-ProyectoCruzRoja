@@ -6,7 +6,7 @@ Configuración inicial
 2. configurar prettier y eslint con los archivos de configuración en la raíz del proyecto
 3. npm run dev para ejecutar el proyecto
 
-Estructura de proyecto - screaming architecture
+Estructura de proyecto 
 
 ![alt text](image.png)
 
