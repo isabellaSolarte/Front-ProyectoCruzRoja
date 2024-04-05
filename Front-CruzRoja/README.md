@@ -8,6 +8,8 @@ Configuración inicial
 
 Estructura de proyecto - screaming architecture
 
+![alt text](image.png)
+
 src
 ├───adapters
 ├───assets
