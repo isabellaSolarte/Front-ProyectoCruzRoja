@@ -17,3 +17,10 @@ Biblioteca de diseño
 Recomendaciones
 
 - Actualizar los archivos de barril(index.ts) de un folder si se crea un nuevo archivo dentro de el.
+
+Patrones de diseño
+Se usa atomic design.
+leer -https://danilowoz.com/blog/atomic-design-with-react
+
+GitFlow.
+leer - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow - https://www.freecodecamp.org/news/practical-git-and-git-workflows/
