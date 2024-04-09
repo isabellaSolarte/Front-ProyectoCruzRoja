@@ -6,17 +6,20 @@ Configuración inicial
 2. configurar prettier y eslint con los archivos de configuración en la raíz del proyecto
 3. npm run dev para ejecutar el proyecto
 
-Estructura de proyecto 
+Estructura de proyecto
 
 ![alt text](image.png)
 
-Biblioteca de diseño
+Bibliotecas
 
-- Material UI
+- PrimeReact (diseño de componentes) https://primereact.org/
+- Recoil (Manejador de estados) https://recoiljs.org/docs/introduction/core-concepts
+- Axios (promesas HTTP para peticiones al backen) https://axios-http.com/docs/intro
 
 Recomendaciones
 
 - Actualizar los archivos de barril(index.ts) de un folder si se crea un nuevo archivo dentro de el.
+- instalar la extensión auto barrel si se usa vscode para facilitar el manejo de archivos de barril.
 
 Patrones de diseño
 Se usa atomic design.
