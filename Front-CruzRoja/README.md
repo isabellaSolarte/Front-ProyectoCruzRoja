@@ -12,7 +12,7 @@ Estructura de proyecto
 
 Bibliotecas
 
-- PrimeReact (diseño de componentes) https://primereact.org/
+- MaterialUi (diseño de componentes) https://mui.com/material-ui/getting-started/
 - Recoil (Manejador de estados) https://recoiljs.org/docs/introduction/core-concepts
 - Axios (promesas HTTP para peticiones al backen) https://axios-http.com/docs/intro
 
@@ -27,3 +27,5 @@ leer -https://danilowoz.com/blog/atomic-design-with-react
 
 GitFlow.
 leer - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow - https://www.freecodecamp.org/news/practical-git-and-git-workflows/
+
+Fuente para los íconos: https://mui.com/material-ui/material-icons/
